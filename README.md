@@ -1,3 +1,3 @@
 # first_repo
 This is my first Git Repository.  
-Author - Shraddha Verma
+Author - Shraddha Verma(me)
